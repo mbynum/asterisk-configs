@@ -1,7 +1,7 @@
 #!/bin/bash
 
 AST_VERSION=13
-AST_TARBALL=asterisk-13.2.0-rc1
+AST_TARBALL=asterisk-13-current
 PJPROJECT_TARBALL=pjproject-2.3
 CLEANUP=0
 
